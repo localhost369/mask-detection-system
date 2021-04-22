@@ -1,4 +1,4 @@
-# It's Live Now <a href="https://mask-detection-system.web.app/" target="_blank"> https://mask-detection-system.web.app/ </a>
+# It's Live Now <a href="https://mask-detection-system.web.app/" target="_blank"> View </a>
 
 # mask-detection-system
 <img width="100%" src="static/img/mask-detection-system.gif">
@@ -12,5 +12,5 @@
 
 ### :heart: Found this project useful?
 
-If you found this project useful, then please consider giving it a :star: on Github and share live demo **(link is <a href="https://mask-detection-system.web.app/" target="_blank"> https://mask-detection-system.web.app/ </a> )** with your friends via social media.
+If you found this project useful, then please consider giving it a :star: on Github and share live demo **(link is https://mask-detection-system.web.app )** with your friends via social media.
 
